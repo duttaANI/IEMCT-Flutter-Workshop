@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77716911248",
+    "firebase_url": "https://flutter1-59b0a.firebaseio.com",
+    "project_id": "flutter1-59b0a",
+    "storage_bucket": "flutter1-59b0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77716911248:android:f957a450b2b52b3eba1415",
+        "android_client_info": {
+          "package_name": "com.example.iemct_workshop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77716911248-f9qft0bro7uulps0a2cgbdvtvpafrp8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFeKYsOL_DXeXT_d5pJ7b4a4dhkxmLxfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77716911248-f9qft0bro7uulps0a2cgbdvtvpafrp8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
